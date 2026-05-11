@@ -1,8 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b62d3991-bd50-47d3-ae86-7b4d41c53547" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec1e4d06-6df0-4592-b22b-e9db08253b2b" /><div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
-</div>
-<img src="https://i.imgur.com/Wskj8cn.jpeg">
-
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
