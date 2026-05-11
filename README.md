@@ -25,7 +25,8 @@ Soy desarrollador Web sin experiencia laboral todavía.
 <td width="50%">
 <h3 align="center">Povecuts</h3>
 <div align="center">
-<a href="https://povecuts.es" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://povecuts.es" target="_blank"><img width="1920" height="1080" alt="PovecutsGithub" src="https://github.com/user-attachments/assets/01d3a2a8-283f-46d4-ae46-48b09e4a7b34" />
+</a>
 <p>Barbería masculina ubicada en antequera. Sitio web creado, gestionado y mantenido por mi</p>
 </div>
 
