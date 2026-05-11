@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b62d3991-bd50-47d3-ae86-7b4d41c53547" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec1e4d06-6df0-4592-b22b-e9db08253b2b" /><div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/Wskj8cn.jpeg">
@@ -28,6 +28,9 @@ Soy desarrollador Web sin experiencia laboral todavía.
 <a href="https://povecuts.es" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
 </div>
+
+<br>
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
