@@ -26,7 +26,7 @@ Soy desarrollador Web sin experiencia laboral todavía.
 <h3 align="center">Povecuts</h3>
 <div align="center">
 <a href="https://povecuts.es" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Barbería masculina ubicada en antequera. Sitio web creado, gestionado y mantenido por mi</p>
 </div>
 
 <br>
