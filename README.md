@@ -53,7 +53,7 @@ Soy un desarrollador apasionado por la creación de aplicaciones web escalables 
 ### 💈 Povecuts
 <div align="center">
   <a href="https://povecuts.es" target="_blank">
-    <img width="1920" height="1080" alt="PovecutsGithub" src="https://github.com/user-attachments/assets/fa9c1c58-93e8-4d70-bfa4-d198c36a72bc" />
+    <img width="1920" height="1080" alt="PovecutsGithub2" src="https://github.com/user-attachments/assets/00e04be6-4f1c-4670-8d15-9cfd7248cb9a" />
   </a>
   <br>
   <strong>Barbería masculina ubicada en Antequera.</strong>
