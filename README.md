@@ -63,14 +63,6 @@ Soy un desarrollador apasionado por la creación de aplicaciones web escalables 
       <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
       <br>Linux
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash" />
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx" />
-      <br>Nginx
-    </td>
   </tr>
 </table>
 
