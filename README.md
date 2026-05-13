@@ -86,17 +86,6 @@ Soy un desarrollador apasionado por la creación de aplicaciones web escalables 
 
 <br>
 
-
-
-<br>
-
-## 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical" alt="Stats" />
-</p>
-
-<br>
-
 ## 📫 Contacto
 <p align="left">
 <a href="TU_LINK_A_LINKEDIN_AQUI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
