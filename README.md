@@ -48,7 +48,7 @@ Soy un desarrollador apasionado por la creación de aplicaciones web escalables 
   </tr>
 </table>
 
-### ☁️ Cloud & Infraestructura (SMR)
+### ☁️ Cloud & Infraestructura
 <table>
   <tr>
     <td align="center" width="96">
