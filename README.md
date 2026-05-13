@@ -64,10 +64,9 @@ Soy un desarrollador apasionado por la creación de aplicaciones web escalables 
 
 <br>
 
-### 🏛️ Sistema de Reservas (TFG DAW)
+### Sistema de Reservas (TFG DAW)
 **Stack: Laravel | AJAX | MySQL**
 *Desarrollo integral de un sistema de gestión de reservas, aplicando arquitectura MVC y optimizando la experiencia de usuario mediante peticiones asíncronas.*
-- [Ver Repositorio](TU_LINK_AL_REPOSITORIO_DEL_TFG_AQUI)
 
 <br>
 
