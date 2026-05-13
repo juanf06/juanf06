@@ -17,6 +17,8 @@ Soy un desarrollador apasionado por la creación de aplicaciones web escalables 
 <br>
 
 ## 🛠️ Stack Tecnológico
+
+### 💻 Desarrollo & Backend
 <table>
   <tr>
     <td align="center" width="96">
@@ -28,25 +30,49 @@ Soy un desarrollador apasionado por la creación de aplicaciones web escalables 
       <br>PHP
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" />
-      <br>AWS
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-      <br>Git
+      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
+      <br>Postman
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
-      <br>Sistemas
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br>Git
     </td>
   </tr>
 </table>
 
-<br>
+### ☁️ Cloud & Infraestructura (SMR)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx" />
+      <br>Nginx
+    </td>
+  </tr>
+</table>
 
 ## 📁 Proyectos Destacados
 
