@@ -64,9 +64,27 @@ Soy un desarrollador apasionado por la creación de aplicaciones web escalables 
 
 <br>
 
-### Stack Tecnológico  (TFG DAW)
-**Backend (Lógica)**
-*Desarrollo integral de un sistema de gestión de reservas, aplicando arquitectura MVC y optimizando la experiencia de usuario mediante peticiones asíncronas.*
+<details>
+<summary><b>🔍 Ver detalles del Stack Tecnológico</b></summary>
+
+#### 🧠 Backend (Lógica)
+- **PHP (8.x):** Motor principal del servidor.
+- **Laravel (8.x):** Framework con arquitectura MVC, protección CSRF, encriptación y validación de datos.
+- **MySQL:** Base de datos relacional para la gestión de usuarios, servicios, citas y horarios.
+
+#### 🎨 Frontend (Interfaz)
+- **HTML5 & CSS3 (Vanilla):** Estructura y diseño visual personalizado con control total del estilo.
+- **Blade:** Motor de plantillas para la generación de vistas dinámicas.
+- **JavaScript & AJAX (Axios):** Interactividad avanzada para la consulta de disponibilidad y envío de formularios sin recargar la página.
+
+#### 🛠️ Herramientas e Integraciones
+- **Laravel Socialite:** Autenticación rápida mediante Google y Apple.
+- **SMTP (Gmail):** Sistema automatizado de correos para notificaciones y recuperación de cuentas.
+- **Laravel Mix:** Compilación y optimización de activos JS y CSS.
+- **Git:** Control de versiones para el despliegue y mantenimiento del código.
+</details>
+
+<br>
 
 
 
