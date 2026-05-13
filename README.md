@@ -5,6 +5,9 @@
 </div>
 
 <br>
+<img width="1280" height="640" alt="Sin título-1" src="https://github.com/user-attachments/assets/c59f07b8-6fa8-4d23-8251-3ae7bad2afd0" />
+
+<br>
 
 ## 🚀 Sobre mí
 Soy un desarrollador apasionado por la creación de aplicaciones web escalables y la gestión de infraestructuras. Mi perfil combina el **Desarrollo de Aplicaciones Web (DAW)** con la **Sistemas Microinformáticos y Redes (SMR)**, lo que me permite tener una visión 360º del ciclo de vida del software.
