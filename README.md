@@ -66,6 +66,8 @@ Soy un desarrollador apasionado por la creación de aplicaciones web escalables 
   </tr>
 </table>
 
+<br>
+
 ## 📁 Proyectos Destacados
 
 ### 💈 Povecuts
