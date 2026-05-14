@@ -95,7 +95,7 @@ Soy un desarrollador apasionado por la creación de aplicaciones web escalables 
 - **Laravel (8.x):** Framework con arquitectura MVC, protección CSRF, encriptación y validación de datos.
 - **MySQL:** Base de datos relacional para la gestión de usuarios, servicios, citas y horarios.
 
-## 🎨 Frontend
+#### 🎨 Frontend
 - **HTML5 & CSS3 (Vanilla):** Estructura y diseño visual personalizado con control total del estilo.
 - **Blade:** Motor de plantillas para la generación de vistas dinámicas.
 - **JavaScript & AJAX (Axios):** Interactividad avanzada para la consulta de disponibilidad y envío de formularios sin recargar la página.
