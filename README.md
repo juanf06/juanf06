@@ -5,7 +5,7 @@
 </div>
 
 <br>
-<img width="1280" height="640" alt="Sin título-1" src="https://github.com/user-attachments/assets/c59f07b8-6fa8-4d23-8251-3ae7bad2afd0" />
+<img width="2848" height="1600" alt="header_juan_pro_2" src="https://github.com/user-attachments/assets/e6da36cd-37fd-42c5-939a-8361fd8f2d49" />
 
 <br>
 
