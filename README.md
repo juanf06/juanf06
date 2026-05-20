@@ -12,7 +12,7 @@
 ## 🚀 Sobre mí
 Soy un desarrollador apasionado por la creación de aplicaciones web escalables y la gestión de infraestructuras. Mi perfil combina el **Desarrollo de Aplicaciones Web (DAW)** con la **Sistemas Microinformáticos y Redes (SMR)**, lo que me permite tener una visión 360º del ciclo de vida del software.
 
-- 🎓 Recién titulado en **DAW** y **SMR**.
+- 🎓 Titulado en **DAW** y **SMR**.
 - 🛠️ Actualmente profundizando en el ecosistema **AWS** (S3, Lambda, DynamoDB).
 - ⚙️ Especializado en **PHP / Laravel** para el desarrollo de lógica de negocio sólida.
 - 💡 Buscando mi primera oportunidad profesional para aportar valor en entornos Backend o Cloud.
