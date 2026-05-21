@@ -129,6 +129,13 @@ Soy un desarrollador apasionado por la creación de aplicaciones web escalables 
 <br>
 
 ## 📫 Contacto
+
 <p align="left">
-<a href="TU_LINK_A_LINKEDIN_AQUI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/TU-USUARIO" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <a href="mailto:tuemail@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40" />
+  </a>
 </p>
