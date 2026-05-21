@@ -103,7 +103,7 @@ Soy un desarrollador apasionado por la creación de aplicaciones web escalables 
   
 <br>
 <p>✅ Sistema de reservas online</p>
-<p>✅ Login con Google y Apple</p>
+<p>✅ Login con Google</p>
 <p>✅ Gestión de horarios y citas</p>
 <p>✅ Sistema automático de emails</p>
 <p>✅ Despliegue y mantenimiento en producción</p>
