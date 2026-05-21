@@ -80,7 +80,7 @@ Soy un desarrollador apasionado por la creación de aplicaciones web escalables 
   </a>
   <br>
   <strong>Barbería masculina ubicada en Antequera.</strong>
-  <p>Sitio web creado, gestionado y mantenido por mí.</p>
+  <p>Plataforma web desarrollada para una barbería real con gestión de citas, autenticación, panel administrativo y despliegue en producción.</p>
   <p><em>Stack: Web Management | Antequera Local Business</em></p>
   <a href="https://povecuts.es" target="_blank">Visitar Web</a>
 </div>
