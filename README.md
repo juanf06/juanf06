@@ -22,40 +22,46 @@ Soy un desarrollador apasionado por la creación de aplicaciones web escalables 
 ## 🛠️ Stack Tecnológico
 
 ### 💻 Desarrollo & Backend
+
 <table>
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
       <br>Laravel
     </td>
+
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
       <br>PHP
     </td>
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-    <br>HTML5
-  </td>
-  
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
-    <br>CSS3
-  </td>
 
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
-    <br>JavaScript
-  </td>
-</tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <br>HTML5
+    </td>
+
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
+      <br>CSS3
+    </td>
+
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
       <br>MySQL
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
       <br>Postman
     </td>
+
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
       <br>Git
