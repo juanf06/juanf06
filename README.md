@@ -32,10 +32,22 @@ Soy un desarrollador apasionado por la creación de aplicaciones web escalables 
       <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
       <br>PHP
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
-      <br>JavaScript
-    </td>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+    <br>HTML5
+  </td>
+  
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
+    <br>CSS3
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+    <br>JavaScript
+  </td>
+</tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
       <br>MySQL
