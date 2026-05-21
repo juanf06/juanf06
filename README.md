@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola, soy Juan 👋</h1>
-  <p><strong>Full Stack Developer | Cloud & Systems Enthusiast</strong></p>
+  <p><strong>Full Stack Developer</strong></p>
   <p>📍 Antequera, Málaga, España</p>
 </div>
 
