@@ -131,11 +131,11 @@ Soy un desarrollador apasionado por la creación de aplicaciones web escalables 
 ## 📫 Contacto
 
 <p align="left">
-  <a href="http://www.linkedin.com/in/juanfbermudezolmedo" target="_blank">
+  <a href="http://www.linkedin.com/in/juanfbermudezolmedo" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 
-  <a href="mailto:juanfbermudez999@gmail.com" target="_blank">
+  <a href="mailto:juanfbermudez999@gmail.com" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
