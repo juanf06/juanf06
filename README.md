@@ -89,7 +89,7 @@ Soy un desarrollador apasionado por la creación de aplicaciones web escalables 
 
 <details>
 <summary><b>🔍 Ver detalles del Stack Tecnológico</b></summary>
-
+<br>
 <p>✅ Sistema de reservas online</p>
 <p>✅ Login con Google y Apple</p>
 <p>✅ Gestión de horarios y citas</p>
