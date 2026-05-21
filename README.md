@@ -90,6 +90,12 @@ Soy un desarrollador apasionado por la creación de aplicaciones web escalables 
 <details>
 <summary><b>🔍 Ver detalles del Stack Tecnológico</b></summary>
 
+✅ Sistema de reservas online
+✅ Login con Google y Apple
+✅ Gestión de horarios y citas
+✅ Sistema automático de emails
+✅ Despliegue y mantenimiento en producción
+
 #### 🧠 Backend
 - **PHP (8.x):** Motor principal del servidor.
 - **Laravel (8.x):** Framework con arquitectura MVC, protección CSRF, encriptación y validación de datos.
