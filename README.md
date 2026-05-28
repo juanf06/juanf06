@@ -120,7 +120,7 @@ Soy un desarrollador apasionado por la creación de aplicaciones web escalables 
 - **JavaScript & AJAX (Axios):** Interactividad avanzada para la consulta de disponibilidad y envío de formularios sin recargar la página.
 
 #### 🛠️ Herramientas e Integraciones
-- **Laravel Socialite:** Autenticación rápida mediante Google y Apple.
+- **Laravel Socialite:** Autenticación rápida mediante Google.
 - **SMTP (Gmail):** Sistema automatizado de correos para notificaciones y recuperación de cuentas.
 - **Laravel Mix:** Compilación y optimización de activos JS y CSS.
 - **Git:** Control de versiones para el despliegue y mantenimiento del código.
